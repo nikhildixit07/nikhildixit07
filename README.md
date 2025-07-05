@@ -1,3 +1,17 @@
+👋 Hey there! I’m a Full-Stack Web & Mobile Developer exploring the power of Generative AI to create smarter, more human-centric digital experiences. With a blend of Cloud Computing, Design Thinking, and AI/ML, I’m passionate about building future-ready solutions that make a difference.
+
+# 🤖 What I'm Exploring:
+AI Integration in Apps – embedding ML models and GenAI (like LLMs, vision models) into web/mobile apps to enhance user interaction, automate workflows, and personalize experiences
+Generative AI – experimenting with content generation, chatbots, image creation, and smart assistants
+Cloud + AI – deploying scalable AI services using GCP and other cloud platforms
+<br>
+<br>
+
+# ☁️ Currently Learning:
+<img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform – focusing on AI/ML APIs, serverless deployments, and model hosting
+
+<br>
+
 # 💻 Tech Stack :
 
 ### <p style="font-size:24px">Languages</p>
@@ -49,6 +63,14 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
 
+
+
+### <p style="font-size:24px">🧠 AI/GenAI Tools</p>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-%2300A67E.svg?logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23323330.svg?logo=data:image/svg+xml;base64&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=000)
+![Firebase ML](https://img.shields.io/badge/Firebase%20ML-FFCA28?logo=firebase&logoColor=black)
 
 
 ### <p style="font-size:24px">Operation System</p>
